@@ -1,6 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Beautify Bioinformatic files
+This project helps to view and analyze bioinformatic files such as VCF or FASTA in a better way creating Dashboards using React.js
+
+![vcf](https://github.com/agdiaz/beautify-bio-files/tree/master/examples/vcf.png)
 
 ## Available Scripts
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
