@@ -1,7 +1,7 @@
 # Beautify Bioinformatic files
 This project helps to view and analyze bioinformatic files such as VCF or FASTA in a better way creating Dashboards using React.js
 
-![vcf](https://github.com/agdiaz/beautify-bio-files/tree/master/examples/vcf.png)
+![vcf](https://github.com/agdiaz/beautify-bio-files/blob/master/examples/vcf.png?raw=true)
 
 ## Available Scripts
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
